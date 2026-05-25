@@ -19,4 +19,4 @@ Hey everyone! I love Casualties: Unknown and wanted to make managing mods easier
 ## 🛠️ Status
 It's almost ready! I'm just finishing up the installer and fixing some bugs. The code and the release will be available very soon! 
 
-From Ukraine with love, Дякую! 🇺🇦
+Дякую за увагу!:D
