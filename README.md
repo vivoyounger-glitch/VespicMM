@@ -1,6 +1,6 @@
 # 📦 VespicMM — A Simple Mod Manager for Casualties: Unknown
 
-Hey everyone! I love the game and wanted to make managing mods easier for the community. This is my very first software project! I got tired of opening folders, moving files, and manually renaming things, so I built this tool:b
+Hey everyone! I love Casualties: Unknown and wanted to make managing mods easier for the community. This is my very first software project! I got tired of opening folders, moving files, and manually renaming things, so I built this tool:b
 
 <img width="1536" height="1024" alt="VespicMM" src="https://github.com/user-attachments/assets/588a1d15-b85d-4775-957f-561b6ab32930" />
 
