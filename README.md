@@ -12,7 +12,7 @@ Hey everyone! I love Casualties: Unknown and wanted to make managing mods easier
 * **Vanilla Launch:** Run the clean game without any mods.
 
 ## 🖼️ UI Design
-<img width="844" height="626" alt="Screenshot 2026-05-25 233458" src="https://github.com/user-attachments/assets/c680c6f4-a2fd-4160-acc5-3c67fdb6cd52" />
+<img width="526" height="467" alt="Screenshot 2026-05-24 004833" src="https://github.com/user-attachments/assets/4f85ae30-14f4-4d30-ad02-3650ad5ec705" />
 
 <img width="1234" height="667" alt="Screenshot 2026-05-25 233435" src="https://github.com/user-attachments/assets/e88cd566-2cf6-487f-859e-14284243c5ca" />
 
