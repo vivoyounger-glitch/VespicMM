@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</targetFramework>
+    <AssemblyName>VespicInstaller</AssemblyName>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Company>VespicMM</Company>
+    <Product>VespicMM Installer</Product>
+    <Description>Installer for the VespicMM modding system (Casualties Unknown Demo)</Description>
+    <Copyright>Copyright © VespicMM</Copyright>
+    <Version>1.0.0</Version>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)'=='Release'">
+    <!-- Multi-file publish: no self-extract to TEMP (common AV heuristic) -->
+    <PublishSingleFile>false</PublishSingleFile>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+</Project>
